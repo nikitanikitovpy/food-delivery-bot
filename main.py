@@ -16,7 +16,7 @@ async def start(message: types.Message):
         keyboard=[
             [types.KeyboardButton(text="🍔 Меню")],
             [types.KeyboardButton(text="🛒 Корзина")],
-            [types.KeyboardButton(text="💳 Оплатить")],
+            [types.KeyboardButton(text="💳 Оплатитьasd")],
         ],
         resize_keyboard=True
     )
